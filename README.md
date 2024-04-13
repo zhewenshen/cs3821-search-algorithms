@@ -17,7 +17,6 @@ To generate the images and performance data, execute the provided shell script:
 ```
 ./run.sh
 ```
-
 **NOTE**: See `main.py` for possible arguments and `run.sh` for examples of how to use them.
 
 ## Sample Outputs
