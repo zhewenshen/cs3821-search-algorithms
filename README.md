@@ -1,4 +1,4 @@
-# cs3821-search-algorithms
+# Search Algorithms
 
 ## Usage
 ```
