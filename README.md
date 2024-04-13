@@ -4,7 +4,7 @@ This document contains implementations and benchmarks for several search algorit
 
 ## Features
 - **Scripts for Visualization**: Visualize how each algorithm explores the search space.
-- **Benchmark Scripts**: Compare performance metrics like runtime and memory usage across algorithms.
+- **Benchmark Scripts**: Compare run-time performance for each algorithm.
 
 ## Sample Outputs
 ### Visualized Paths
