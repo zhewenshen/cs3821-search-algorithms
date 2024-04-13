@@ -1,16 +1,30 @@
 # Search Algorithms
 
-Sample implementations of `BFS`, `DFS`, `Dijkstra's` and `A*` algorithms for COMP3821. We include scripts to visualise and benchmark the aforementioned algorithms.
+This document contains implementations and benchmarks for several search algorithms including BFS, DFS, Dijkstra's, and A* algorithms, specifically designed for COMP3821.
+
+## Features
+- **Scripts for Visualization**: Visualize how each algorithm explores the search space.
+- **Benchmark Scripts**: Compare performance metrics like runtime and memory usage across algorithms.
 
 ## Sample Outputs
-### Paths
-![Paths](./out/grid_search_40_0.2_2024-04-13_16-43-37.png)
+### Visualized Paths
+![Visualized Paths](./out/grid_search_40_0.2_2024-04-13_16-43-37.png)
 
-### Benchmark
-![Benchmark](./out/benchmark_10-100_0.2_2024-04-13_16-39-45.png)
+### Performance Benchmark
+![Performance Benchmark](./out/benchmark_10-100_0.2_2024-04-13_16-39-45.png)
 
-## Usage
+## Getting Started
+### Prerequisites
+Ensure you have `python` and `pip` installed on your machine. Then, install the necessary dependencies:
+```
+pip install -r requirements.txt
+```
+### Running the Scripts
+To generate the images and performance data, execute the provided shell script:
 ```
 ./run.sh
 ```
-**N.B.** See `main.py` for possible arguments and `run.sh` for sample usage.
+
+**NOTE**: See `main.py` for possible arguments and `run.sh` for examples of how to use them.
+
+
