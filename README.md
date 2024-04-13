@@ -1,6 +1,6 @@
 # Search Algorithms
 
-This document contains implementations and benchmarks for several search algorithms including BFS, DFS, Dijkstra's, and A* algorithms, specifically designed for COMP3821.
+This document contains implementations and benchmarks for several search algorithms including `BFS`, `DFS`, `Dijkstra's`, and `A*` algorithms for COMP3821.
 
 ## Features
 - **Scripts for Visualization**: Visualize how each algorithm explores the search space.
