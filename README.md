@@ -6,13 +6,6 @@ This document contains implementations and benchmarks for several search algorit
 - **Scripts for Visualization**: Visualize how each algorithm explores the search space.
 - **Benchmark Scripts**: Compare run-time performance for each algorithm.
 
-## Sample Outputs
-### Visualized Paths
-![Visualized Paths](./out/grid_search_40_0.2_2024-04-13_16-43-37.png)
-
-### Performance Benchmark
-![Performance Benchmark](./out/benchmark_10-100_0.2_2024-04-13_16-39-45.png)
-
 ## Getting Started
 ### Prerequisites
 Ensure you have `python` and `pip` installed on your machine. Then, install the necessary dependencies:
@@ -26,5 +19,12 @@ To generate the images and performance data, execute the provided shell script:
 ```
 
 **NOTE**: See `main.py` for possible arguments and `run.sh` for examples of how to use them.
+
+## Sample Outputs
+### Visualized Paths
+![Visualized Paths](./out/grid_search_40_0.2_2024-04-13_16-43-37.png)
+
+### Performance Benchmark
+![Performance Benchmark](./out/benchmark_10-100_0.2_2024-04-13_16-39-45.png)
 
 
